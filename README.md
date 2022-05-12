@@ -1,3 +1,3 @@
-# JS-total
+# web-notes
 
-To keep a note of JavaScript
+To keep a note of HTML, CSS, & JavaScript
